@@ -1,6 +1,6 @@
 - 👋 Olá eu sou @AlessandroBonfim
-- 👀 Estou interessado em me tornar um desenvolvedor web.
-- 🌱 Atualmente estou aprendendo fundamentos de desenvolvimento web onde desenvolvo Hard skills e Soft skills na plataforma de aprendizado @betrybe.
+- 👀 Estou interessado em me tornar um desenvolvedor, tando voltado para o front-end quando pro back-end, e também programação de hardwares.
+- 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela UNINTER.
 - 💞️ Estou procurando colaborar em projetos com pessoas também estudantes da área e com pessoas experientes para fins de fazer networking e ter feedbecks sobre meu desenvolvimento.
 - 
 - 📫 Como chegar até mim
